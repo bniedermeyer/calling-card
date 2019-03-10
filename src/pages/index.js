@@ -9,6 +9,10 @@ export default () => (
     <Picture />
     <h1>Brenden Niedermeyer</h1>
     <LinkButton url="https://brenden.fyi" title="Resume" />
+    <LinkButton
+      url="https://www.linkedin.com/in/bniedermeyer"
+      title="LinkedIn"
+    />
     <LinkButton url="https://medium.com/@brenden.niedermeyer" title="Blog" />
     <LinkButton url="https://github.com/bniedermeyer" title="Github" />
     <LinkButton url="https://twitter.com/thenieds" title="Twitter" />
