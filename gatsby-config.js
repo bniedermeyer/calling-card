@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/calling-card",
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
