@@ -13,7 +13,7 @@ export default () => (
       url="https://www.linkedin.com/in/bniedermeyer"
       title="LinkedIn"
     />
-    <LinkButton url="https://medium.com/@brenden.niedermeyer" title="Blog" />
+    <LinkButton url="https://brenden.codes" title="Blog" />
     <LinkButton url="https://github.com/bniedermeyer" title="Github" />
     <LinkButton url="https://twitter.com/thenieds" title="Twitter" />
     <LinkButton url="mailto:me@brenden.fyi" title="Email" />
