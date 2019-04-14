@@ -8,6 +8,7 @@ export default () => (
   <Container>
     <Picture />
     <h1>Brenden Niedermeyer</h1>
+    <LinkButton url="https://brenden.dev" title="Website" />
     <LinkButton url="https://brenden.fyi" title="Resume" />
     <LinkButton
       url="https://www.linkedin.com/in/bniedermeyer"
